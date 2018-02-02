@@ -1,0 +1,19 @@
+/*
+Theme Name: Alan
+Theme URI: http://alan.com
+Author: Alan Fermin
+Author URI: https://wordpress.org/
+Description: Mini e-commerce para supermercados
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: alanfermin
+*/
+
+.suscribir
+{
+    background: url("image/22.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
