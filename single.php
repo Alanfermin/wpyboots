@@ -1,6 +1,4 @@
 <?php get_header();?>
-
-
 <!-- Contenido Articulo -->
 <div class="container">
    <div class="row">

@@ -1,3 +1,4 @@
+<
  <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -65,13 +66,9 @@
 
     <!--fin navbar -->
 
-<!-- background banner -->
+<!-- backgroun banner -->
 <div class="container-fluid suscribir">
-  <?php wp_enqueue_style(); ?>
-</div>
- <!-- Fin background banner. Si es necesario, sino no aparece -->
   
-
-
-
-   
+</div> -->
+ <!-- Fin backgroun banner. Si es necesario, sino no aparece -->
+  

@@ -3,7 +3,6 @@
     get_header();
 
  ?>
-
 <!-- Contenido-->
 <div class="container my-5">
   <div class="row">
