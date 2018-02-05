@@ -1,0 +1,1 @@
+Cuando llame a las páginas carnes, licores, perfumería muestre otro banner.
